@@ -37,5 +37,13 @@
             android:backgroundTint="#4CAF50"
             android:text="Spinner"
             android:textColorLink="#9E8146" />
+
+        <Button
+            android:id="@+id/btnCity"
+            android:layout_width="200sp"
+            android:layout_height="50sp"
+            android:backgroundTint="#673AB7"
+            android:text="City"
+            android:textColorLink="#9E8146" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
